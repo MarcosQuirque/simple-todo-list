@@ -1,5 +1,7 @@
+@use "./../../../assets/styles/var.scss";
+
 #container {
-  background-color: green;
+  background-color: var.$boxColor;
   height: 75vh;
   width: 95vw;
   border-radius: 25px;
