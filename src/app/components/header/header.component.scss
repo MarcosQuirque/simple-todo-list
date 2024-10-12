@@ -12,7 +12,7 @@
 #tittle {
   margin: 0.5vw;
   padding: 1vw;
-  font-size: xx-large;
+  font-size: 1.7rem;
 }
 #info {
   margin: 0.5vw;
@@ -21,7 +21,7 @@
   color: black;
 
   &:hover {
-    background-color: rgba(101, 98, 145, 0.099);
+    background-color: var.$boxShadow;
     border-radius: 10px;
   }
 }
